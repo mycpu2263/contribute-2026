@@ -4,6 +4,7 @@
 
 ---
 - [ZoeChengYu](https://github.com/ZoeChengYu) - Computer Science and Information Engineering, Year 2
+- [mycpu2263](https://github.com/mycpu2263) - Materials and Mineral Resources Engineering, Year 2
 - [kaie-kaie](https://github.com/kaie-kaie) - 北科大, 2026
 - [suyuming](https://github.com/suyuming373) - CS, Year 1
 - [cynthia](https://github.com/ucynthia95-afk) - ecss, Year 1
