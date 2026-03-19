@@ -3,6 +3,7 @@
 > 請將你的名字加到**第 6 行 (Line 6)**，並嚴格遵守所示格式。完整操作說明請見 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ---
+- [ZoeChengYu](https://github.com/ZoeChengYu) - Computer Science and Information Engineering, Year 2
 - [mycpu2263](https://github.com/mycpu2263) - Materials and Mineral Resources Engineering, Year 2
 - [kaie-kaie](https://github.com/kaie-kaie) - 北科大, 2026
 - [suyuming](https://github.com/suyuming373) - CS, Year 1
