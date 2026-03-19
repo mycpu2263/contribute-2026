@@ -4,3 +4,5 @@
 
 ---
 - [ZoeChengYu](https://github.com/ZoeChengYu) - Computer Science and Information Engineering, Year 2
+- [Bradly](https://github.com/bradly0cjw) - Dept. of Computer Science and Information Engineering, Year 4
+- [Yan Yu Lin](https://github.com/yan-yu-lin) - Electronics Department, Year 4
